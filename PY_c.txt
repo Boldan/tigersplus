@@ -1,0 +1,7 @@
+# Rime table
+#@/db_name	PY_c
+#@/db_type	tabledb
+#@/rime_version	1.11.2
+#@/tick	9
+嫉妒	ji du	16
+以词定字	yi ci ding zi	2
