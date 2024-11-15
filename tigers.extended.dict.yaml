@@ -11,7 +11,10 @@ import_tables:
   - tigers_ci
   - tigers_simp_ci  # 在-前面加上#号，即可关闭简词
   - tigers_ci_ext  # 鬼虎词库
-  - tangshisanbaishou
+  - yuanqu300
+  - tangshi300
+  - shicimingju14000
+  - songci300
   
 columns:
   - text
