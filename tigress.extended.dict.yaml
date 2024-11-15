@@ -9,11 +9,6 @@ import_tables:
   - tigress
   - tigress_ci
   - tigress_simp_ci  # 在-前面加上#号，即可关闭简词
-  - tangshisanbaishou
-  - yuanqu300
-  - tangshi300
-  - shicimingju14000
-  - songci300
   
 columns:
   - text
