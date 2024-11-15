@@ -1,0 +1,21 @@
+var:
+  last_build_time: 1731521454
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: tigers
+  schema_access_time:
+    PY_c: 1731506291
+    SM: 1649928816
+    jidian_wubi86: 1731520482
+    jidian_wubi86_pinyin: 1731520241
+    latex: 1731521382
+    onitiger: 1731344272
+    pinyin_simp: 1629527394
+    smzm: 1632466262
+    smzmAI: 1630049230
+    tiger: 1731688468
+    tigers: 1731695357
+    tigress: 1731512572
+    xhup: 1649516184
