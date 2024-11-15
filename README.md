@@ -15,4 +15,4 @@
 # 感谢
 五笔借鉴：https://gitee.com/KyleBing/rime-wubi86-jidian
 
-虎码借鉴：http://huma.ysepan.com/以及不知出处吃鬼虎词库  
+虎码借鉴：http://huma.ysepan.com/ 以及不知出处吃鬼虎词库  
