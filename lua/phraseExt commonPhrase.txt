@@ -1,0 +1,146 @@
+#在候选词中：支持使用 &nbsp 来定义空格，支持使用 <br> 来定义换行，而正常的空格被用于分词
+
+# 常用链接
+知乎	https://www.zhihu.com
+百度 度娘	www.baidu.com
+淘宝	www.taobao.com
+谷歌 谷哥 谷姐	www.google.com
+画图 几何 画板	https://webgeo-8gn07v0t78c4ca57-1308819187.tcloudbaseapp.com
+分享 专栏	http://t.csdnimg.cn/TlnBW
+分享	https://zhuanlan.zhihu.com/p/675553523
+
+# md语法支持
+红 红字	md-<font&nbspcolor=Red></font>
+红 红底	md-<span&nbspstyle="background:Red"></span>
+绿 绿字	md-<font&nbspcolor=Green></font>
+绿 绿底	md-<span&nbspstyle="background:Green"></span>
+黄 黄字	md-<font&nbspcolor=Yellow></font>
+黄 黄底	md-<span&nbspstyle="background:Yellow"></span>
+青 青字	md-<font&nbspcolor=Aqua></font>
+青 青底	md-<span&nbspstyle="background:Aqua"></span>
+蓝 蓝字	md-<font&nbspcolor=Blue></font>
+蓝 蓝底	md-<span&nbspstyle="background:Blue"></span>
+灰 灰字	md-<font&nbspcolor=Gray></font>
+灰 灰底	md-<span&nbspstyle="background:Gray"></span>
+粉 粉字	md-<font&nbspcolor=Pink></font>
+粉 粉底	md-<span&nbspstyle="background:Pink"></span>
+提醒 醒目	md-<span&nbspstyle="background:Red"><font&nbspcolor=Yellow>醒目</font></span>
+引用 链接	md-[]()
+一级	md-#&nbsp
+二级	md-##&nbsp
+三级	md-###&nbsp
+四级	md-####&nbsp
+列表	md--&nbsp md-*&nbsp md-+&nbsp md-:&nbsp
+选框 复选	md--&nbsp[&nbsp]&nbsp md--&nbsp[x]&nbsp
+代码	md-```bash md-```C md-```C# md-```Python md-```lua md-```javascript md-```yaml
+注脚 脚注	md-[^0] md-[^0]:
+注释	md-*[xxx]:
+公式	md-md公式
+甘特 甘特图	md-md甘特图
+uml	md-mdUML图
+流程 流程图	md-mermaid流程图 md-flowchat流程图
+类 类图	md-classDiagram图
+图 画图	md-mdUML图 md-md甘特图 md-mermaid流程图 md-flowchat流程图 md-classDiagram图
+
+# 常用称呼
+运气 华盖	运气 华盖
+南冠 囚犯	南冠 囚犯
+伉俪 夫妻	伉俪 夫妻
+丝竹 音乐	丝竹 音乐
+烽烟 战争	战争 烽烟
+子时 三更 子夜 半夜 午夜	子时 三更 子夜 半夜 午夜
+丑时 荒鸡 鸡鸣	丑时 荒鸡 鸡鸣
+寅时 平旦 黎明 早晨 日旦	寅时 平旦 黎明 早晨 日旦
+卯时 日出 日始 破晓 旭日	卯时 日出 日始 破晓 旭日
+辰时 食时 早食 朝食	辰时 食时 早食 朝食
+巳时 隅中 日禺	巳时 隅中 日禺
+午时 日中 日正 中午 正午	午时 日中 日正 中午 正午
+未时 日眣 日央 日跌	未时 日眣 日央 日跌
+申时 晡时 日晡 夕食	申时 晡时 日晡 夕食
+酉时 日落 日沉 傍晚	酉时 日落 日沉 傍晚
+戌时 黄昏 日夕 日暮 日晚	戌时 黄昏 日夕 日暮 日晚
+亥时 人定 定昏	亥时 人定 定昏
+
+# 常用词组
+表情	emoji
+上述	👆上述
+
+# python 关键字映射，联想词组前缀：py-
+从	py-from&nbsp
+导入 引入	py-import&nbsp
+尝试	py-try:
+我 自己 自身	py-self
+我的	py-self.
+属性	py-property py-@property
+装饰 修饰	py-@property py-@秒表 py-@staticmethod py-@classmethod
+全局	py-globa&nbsp
+类	py-class&nbsp
+定义	py-def&nbsp
+字符 字串 字符串	py-str&nbsp
+整数	py-int&nbsp
+浮点 小数	py-float&nbsp
+数字	py-float&nbspor&nbspint&nbsp
+列表	py-list py-list[str] py-list[int]
+字典	py-dict py-dict[
+元组	py-tuple py-tuple(
+默认	py-:&nbspstr&nbsp=&nbsp'-' py-:&nbspint&nbsp=&nbsp0 py-:&nbspfloat&nbsp=&nbsp0 py-:&nbsplist&nbsp=&nbspNone
+无值	py-None py-=&nbspNone
+如果	py-if&nbsp
+否则 其它 其他	py-else&nbsp py-else:
+再如 另外 或者	py-elif&nbsp
+继续	py-continue
+中断 退出	py-break
+包含	py-contains
+循环	py-for&nbsp py-while&nbsp
+在 在于	py-in&nbsp py-in&nbsp[
+不在	py-not&nbspin&nbsp
+和 且 并且 同时	py-and&nbsp
+或 或者	py-or&nbsp
+返回	py-return&nbsp
+是	py-is&nbsp
+不是	py-is&nbspnot&nbsp
+类型	py-type&nbsp py-type(
+域	py-#&nbspregion&nbsp py-#&nbspendregion
+
+# 常用git命令，联想词组前缀：git-
+发布	git-git&nbsppb&nbsp
+状态	git-git&nbspst
+日志	git-git&nbsplp git-git&nbsplg git-git&nbsplpp
+版本	git-git&nbspvr&nbsp
+添加 提交	git-git&nbspacm&nbsp' git-git&nbspadd&nbsp
+推送 同步	git-git&nbsppo
+拉取 同步	git-git&nbsppall
+关联	git-git&nbspbs&nbsp
+切换	git-git&nbspswitch&nbsp git-git&nbspswitch&nbsp-c&nbsp
+恢复	git-git&nbsprestore&nbsp git-git&nbsprestore&nbsp.
+合并	git-git&nbspmr&nbsp git-git&nbspmr&nbspdev git-git&nbspmr&nbsprelease
+打标	git-git&nbsptag&nbsp
+删除	git-git&nbsptag&nbsp-d&nbsprxx git-git&nbsppush&nbsp--delete&nbsporigin&nbsprxx
+
+# 常用cmd命令
+退出	exit exit(0)
+
+# 单位换算
+英寸	0.0254米英寸
+英尺	0.3048米
+码	3英尺 36英寸 0.9144米
+英里	1609.344米 0.87海里 5.28英尺 63.36英寸
+海里	1.852km 1.15英里 6.076英尺 72.913英寸
+升	0.001m³ 1.06夸脱(美) 0.88夸脱(英) 2.11品脱(美) 1.76品脱(英)
+加仑	3.7854升(美) 4.54609升(英)
+公倾	1万m² 0.92足球场 2.47亩
+亩	4046.856m² 0.37足球场 0.4公倾
+节	1.852kph 0.51mps
+马赫	1225.1kph 340.3mps 661.5节
+盎司	28.35g 0.0625磅
+磅	0.454kg	16盎司
+卡	4.184焦
+马力	0.7457kW
+巴	0.987大气压 100kPa 750.1875mmHg
+气压	1.01325bar 101.325kPa 760.1275mmHg
+汞柱	0.001333bar 0.001316大气压 0.133kPa
+角度	0.017453rad 1.111111%坡比
+弧度	57.29578° 63.66198%坡比
+坡比	0.9° 0.02rad
+# 其它
+进步	进步开始于起步
