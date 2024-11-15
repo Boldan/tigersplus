@@ -1,0 +1,34 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Nov 14 00:08:30 2024"
+  rime_version: 1.11.2
+patch:
+  "ascii_composer/good_old_caps_lock": true
+  menu/page_size: 10  # 存在候选词选项时，每一页显示的候选词数量，最大是 10
+  recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"  # 标点符号识别模式
+  "ascii_composer/switch_key":
+    Caps_Lock: clear
+    Control_L: noop
+    Control_R: noop
+    Eisu_toggle: clear
+    Shift_L: commit_code
+    Shift_R: commit_text
+  schema_list:
+    - {schema: tiger}
+    - {schema: tigress}
+    - {schema: tigers}
+    - {schema: PY_c}
+    - {schema: jidian_wubi86}
+    - {schema: jidian_wubi86_pinyin}
+  "style/comment_font_face": "Consolas, Segoe UI Emoji, Noto Color Emoji, TumanPUA, LXGW WenKai GB Screen, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16"
+  "style/comment_font_point": 15
+  "style/font_face": "Consolas, Segoe UI Emoji, Noto Color Emoji, LXGW WenKai GB Screen, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16"
+  "style/font_point": 15
+  "style/label_font_face": "LXGW WenKai GB Screen, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16"
+  "style/label_font_point": 15
+  "switcher/hotkeys":
+    - "Control+grave"
+    - "Control+F8"
+    - F4

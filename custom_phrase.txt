@@ -1,0 +1,13 @@
+# Rime table
+#@/db_name	custom_phrase.txt
+#@/db_type	tabledb
+#@/tick	7
+17673801116	dh	52
+19198212757	dh	53
+权重值	eljn	0
+https://dav.jianguoyun.com/dav/	jgy	52
+1626511626	qq	52
+81616757	qq	53
+刘清波	vkkr	53
+1626511626@qq.com	yx	52
+81616757@qq.com	yx	54
